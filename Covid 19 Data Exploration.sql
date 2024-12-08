@@ -7,7 +7,6 @@ SELECT *
 FROM [Portfolio projects].dbo. CovidVaccinations;
 
 --data cleaning
-
 -- Converting blanks to NULL in the CovidDeaths table
 
 SELECT 
